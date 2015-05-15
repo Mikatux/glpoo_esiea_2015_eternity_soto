@@ -1,0 +1,2 @@
+deplacez les tuiles presentent sur la droite dans le plateau de jeu grace a un clique sur la tuile voulu ainsi que sur la case ou vous voulez la placer.
+pour faire tournerla case faites un clique droit.
